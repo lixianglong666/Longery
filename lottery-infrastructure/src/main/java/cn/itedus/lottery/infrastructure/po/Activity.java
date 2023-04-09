@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * @Author: lixianglong
  * @Date: 2023/3/9 - 03 -09 - 16:43
- * @Description: cn.itedus.lottery.infrastructure.po
+ * @Description: 活动基础信息表
  * @version: 1.0
  * 活动基本信息表
  */
